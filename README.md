@@ -1,5 +1,3 @@
-# 8-bit-Computer
-
 # 🧠 8-Bit Computer Architecture 
 
 ## 📌 Description
